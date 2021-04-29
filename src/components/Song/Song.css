@@ -1,0 +1,23 @@
+.container-song {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    align-content: center;
+    width: 90%;
+    margin-left: 4rem;
+    margin-right: 4.4rem;
+    margin-bottom: 0.5rem;
+    padding: 1rem;
+}
+
+.container-song-column {
+    width: 100%;
+}
+
+.song-progressbar {
+    width: 100%;
+}
+
+li {
+    list-style-type: none;
+}

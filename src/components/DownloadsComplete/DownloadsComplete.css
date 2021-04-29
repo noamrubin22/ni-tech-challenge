@@ -1,0 +1,12 @@
+.completed{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    height: 50vw;
+}
+
+img {
+    width: 1rem;
+}
